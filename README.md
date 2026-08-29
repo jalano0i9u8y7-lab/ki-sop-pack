@@ -4,6 +4,18 @@ Turn an agent from "can chat" into "can produce a spec, stress-test a plan, and
 write a skill that's actually reviewable" — four small SOP modules for Claude
 Code / Hermes / any agent runtime that loads `SKILL.md` files.
 
+**What you can build with this pack** — searchable answers to real problems:
+
+- **Claude Code SOP templates** — stop re-explaining your process to your agent every session
+- **AI agent workflow** — a router that picks the right process (implement / stress-test / spec-first) before any task starts
+- **Spec-first development with AI** — turn a messy conversation into an executable spec (problem / solution / user stories / decisions) without an interview
+- **Plan stress-testing** — a one-question-at-a-time reviewer that blocks premature "done"
+- **How to write SKILL.md files** — vocabulary and structure that passes code review, from a team running 300+ agent sessions a week
+
+> 🔔 **Bundle launches soon** — the paid bundle is in final packaging.
+> Star / watch this repo to get notified when checkout goes live; the free
+> router module below is usable right now, no signup.
+
 Adapted from [mattpocock/skills](https://github.com/mattpocock/skills) (MIT,
 ~188K stars) — this is a curated 4-module selection with routing/state-machine
 adaptation, not a full fork of the upstream repo.
